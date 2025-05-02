@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "graykard",
+    "is_private": false,
+    "title": "Gentrification in Houston and Sugar Land",
+    "description": "Rising displacement in Houston, Texas has caused major changes to surrounding suburbs, including Sugar Land.",
+    "language": "en",
+    "slug": "sugarlandgentt",
+    "creator": "graykard",
+    "authors": "Grace Kardoush",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-02T04:56:42.575Z",
+    "updated_at": "2025-05-02T04:56:42.575Z"
   }
 }
